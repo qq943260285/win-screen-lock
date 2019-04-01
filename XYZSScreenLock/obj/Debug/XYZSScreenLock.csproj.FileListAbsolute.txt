@@ -1,0 +1,14 @@
+E:\桌面\XYZSScreenLock\XYZSScreenLock\bin\Debug\XYZSScreenLock.exe.config
+E:\桌面\XYZSScreenLock\XYZSScreenLock\bin\Debug\XYZSScreenLock.exe
+E:\桌面\XYZSScreenLock\XYZSScreenLock\bin\Debug\XYZSScreenLock.pdb
+E:\桌面\XYZSScreenLock\XYZSScreenLock\bin\Debug\CSkin.dll
+E:\桌面\XYZSScreenLock\XYZSScreenLock\bin\Debug\CSkin.xml
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.csprojResolveAssemblyReference.cache
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Properties.Resources.resources
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.csproj.GenerateResource.Cache
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.exe
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.pdb
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.MainForm.resources
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.ConfigForm.resources
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.FullScreenForm.resources
+E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Component.Time.resources
