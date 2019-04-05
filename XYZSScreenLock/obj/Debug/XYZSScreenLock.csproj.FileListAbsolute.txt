@@ -12,3 +12,17 @@ E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.MainForm.r
 E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.ConfigForm.resources
 E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.FullScreenForm.resources
 E:\桌面\XYZSScreenLock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Component.Time.resources
+H:\win-screen-lock\XYZSScreenLock\bin\Debug\XYZSScreenLock.exe.config
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.exe
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.pdb
+H:\win-screen-lock\XYZSScreenLock\bin\Debug\XYZSScreenLock.exe
+H:\win-screen-lock\XYZSScreenLock\bin\Debug\XYZSScreenLock.pdb
+H:\win-screen-lock\XYZSScreenLock\bin\Debug\CSkin.dll
+H:\win-screen-lock\XYZSScreenLock\bin\Debug\CSkin.xml
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.csprojResolveAssemblyReference.cache
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Component.Time.resources
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.ConfigForm.resources
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.FullScreenForm.resources
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Form.MainForm.resources
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.Properties.Resources.resources
+H:\win-screen-lock\XYZSScreenLock\obj\Debug\XYZSScreenLock.csproj.GenerateResource.Cache

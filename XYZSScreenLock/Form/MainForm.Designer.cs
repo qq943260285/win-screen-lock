@@ -44,6 +44,7 @@
             this.skinButton1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.skinButton1.BackColor = System.Drawing.Color.Transparent;
             this.skinButton1.ControlState = CCWin.SkinClass.ControlState.Normal;
+            this.skinButton1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.skinButton1.DownBack = null;
             this.skinButton1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.skinButton1.Location = new System.Drawing.Point(3, 60);
@@ -111,6 +112,7 @@
             // 
             this.ConfigImag.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.ConfigImag.BackColor = System.Drawing.Color.Transparent;
+            this.ConfigImag.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ConfigImag.Image = global::XYZSScreenLock.Properties.Resources.设_置;
             this.ConfigImag.Location = new System.Drawing.Point(217, 138);
             this.ConfigImag.Name = "ConfigImag";
